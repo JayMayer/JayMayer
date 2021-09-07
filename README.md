@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JayMayer
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Java with General Assembly
+- 📫 How to reach me ...
+  - [LinkedIn](https://linkedin.com/in/jay-mayer)
