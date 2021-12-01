@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayMayer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Java with General Assembly
+- 🌱 I’m currently a Graduate Software Developer at Barclays in Knutsford, UK
 - 📫 How to reach me ...
   - [Website](https://jaymayer.co.uk)
   - [LinkedIn](https://linkedin.com/in/jay-mayer)
